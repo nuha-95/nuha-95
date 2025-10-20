@@ -19,15 +19,6 @@ I'm a Computer Science graduate specializing in **AI-driven backend systems**, *
 
 ---
 
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuha-95&show_icons=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME)
-
----
-
 ### 📬 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/nusrat-jahan-nuha/) • [Portfolio](https://nuha-95-github-io.vercel.app/) • ✉️ nuha95nusratjahan@gmail.com
