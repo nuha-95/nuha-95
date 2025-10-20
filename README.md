@@ -19,19 +19,11 @@ I'm a Computer Science graduate specializing in **AI-driven backend systems**, *
 
 ---
 
-### 🧑‍💻 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Time Series Forecasting** | Multi-model pipeline using SARIMAX, Prophet, LSTM, GRU to predict Tesla stock prices | `Python`, `Pandas`, `PyTorch`, `Statsmodels` |
-| **Finance Policy Chatbot** | RAG-based chatbot parsing regulatory PDFs using embeddings & ChromaDB | `Streamlit`, `Sentence-Transformers`, `ChromaDB` |
-| **Maveric (Open Source)** | PPO-based RL pipeline for cellular Mobility Robustness Optimization | `RL`, `Stable-Baselines3`, `REST API` |
-
----
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuha-95&show_icons=true)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME)
 
 ---
